@@ -1,38 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 <head>
-    <title>Analiza wynagrodzeń</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Dane absolwentów</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
-<body class="container mt-4">
-    <h1>Analiza wynagrodzeń w urzędach wojewódzkich</h1>
+<body class="container py-5">
+    <h1 class="mb-4">Dane absolwentów 2023/2024</h1>
 
     <form method="get" class="row g-3 mb-4">
         <div class="col-md-4">
-            <input type="text" name="search" placeholder="Szukaj urzędu..." value="{{ search }}" class="form-control" />
+            <input type="text" class="form-control" name="search" placeholder="Szukaj województwa lub szkoły..." value="{{ search }}">
         </div>
         <div class="col-md-3">
             <select name="sort_by" class="form-select">
-                <option value="Urząd wojewódzki" {% if sort_by == 'Urząd wojewódzki' %}selected{% endif %}>Alfabetycznie</option>
-                <option value="Wynagrodzenie zasadnicze (brutto)" {% if sort_by == 'Wynagrodzenie zasadnicze (brutto)' %}selected{% endif %}>Zasadnicze</option>
-                <option value="Wynagrodzenie całkowite (brutto)" {% if sort_by == 'Wynagrodzenie całkowite (brutto)' %}selected{% endif %}>Całkowite</option>
-                <option value="Różnica" {% if sort_by == 'Różnica' %}selected{% endif %}>Różnica</option>
+                <option value="Region" {% if sort_by == 'Region' %}selected{% endif %}>Sortuj wg regionu</option>
+                <option value="Absolwenci" {% if sort_by == 'Absolwenci' %}selected{% endif %}>Sortuj wg liczby absolwentów</option>
             </select>
         </div>
-        <div class="col-md-2 form-check">
-            <input class="form-check-input" type="checkbox" name="top5" value="true" id="top5" {% if top_only %}checked{% endif %}>
-            <label class="form-check-label" for="top5">Pokaż tylko TOP 5</label>
+        <div class="col-md-2 form-check mt-2">
+            <input type="checkbox" class="form-check-input" id="top5" name="top5" value="true" {% if top_only %}checked{% endif %}>
+            <label class="form-check-label" for="top5">Tylko Top 5</label>
         </div>
         <div class="col-md-2">
-            <button type="submit" class="btn btn-primary">Zastosuj</button>
+            <button type="submit" class="btn btn-primary w-100">Filtruj</button>
         </div>
     </form>
 
-    <div class="mb-3">
-        <p><strong>Średnie wynagrodzenie zasadnicze:</strong> {{ avg_basic }} zł</p>
-        <p><strong>Średnie wynagrodzenie całkowite:</strong> {{ avg_total }} zł</p>
-    </div>
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Region</th>
+                <th>Typ szkoły</th>
+                <th>Kategoria</th>
+                <th>Absolwenci</th>
+                <th>Dziewczęta</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+            <tr>
+                <td>{{ row.Region }}</td>
+                <td>{{ row['Typ szkoły'] }}</td>
+                <td>{{ row.Kategoria }}</td>
+                <td>{{ row.Absolwenci }}</td>
+                <td>{{ row.Dziewczęta }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 
-    <div>{{ tabela | safe }}</div>
+    <p class="text-muted">Średnia liczba absolwentów: {{ avg_abs }}</p>
 </body>
 </html>

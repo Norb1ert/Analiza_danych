@@ -1,0 +1,1731 @@
+[
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 16917,
+    "Dziewczęta": 8017.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 39,
+    "Dziewczęta": 11.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 9930,
+    "Dziewczęta": 6021.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1515,
+    "Dziewczęta": 803.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 7433,
+    "Dziewczęta": 3015.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 6892,
+    "Dziewczęta": 5104.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 143,
+    "Dziewczęta": 54.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 93,
+    "Dziewczęta": 60.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 53,
+    "Dziewczęta": 38.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 55,
+    "Dziewczęta": 51.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 418,
+    "Dziewczęta": 271.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 62,
+    "Dziewczęta": 38.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Policealna SzkoĺA Muzyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 11,
+    "Dziewczęta": 9.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Policealna SzkoĺA Plastyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 28,
+    "Dziewczęta": 18.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 3208,
+    "Dziewczęta": 1069.0
+  },
+  {
+    "Region": "DolnoĺLäSkie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 100,
+    "Dziewczęta": 41.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 11412,
+    "Dziewczęta": 5348.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 11,
+    "Dziewczęta": 1.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 6899,
+    "Dziewczęta": 4424.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1279,
+    "Dziewczęta": 696.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 6766,
+    "Dziewczęta": 2702.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 3887,
+    "Dziewczęta": 3110.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 168,
+    "Dziewczęta": 55.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 47,
+    "Dziewczęta": 34.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 27,
+    "Dziewczęta": 13.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 109,
+    "Dziewczęta": 92.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 317,
+    "Dziewczęta": 198.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 48,
+    "Dziewczęta": 29.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 3046,
+    "Dziewczęta": 1060.0
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 374,
+    "Dziewczęta": 121.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 11640,
+    "Dziewczęta": 5327.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 9137,
+    "Dziewczęta": 5867.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 928,
+    "Dziewczęta": 504.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 6310,
+    "Dziewczęta": 2326.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 4017,
+    "Dziewczęta": 3425.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 131,
+    "Dziewczęta": 52.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 23,
+    "Dziewczęta": 13.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 24,
+    "Dziewczęta": 11.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 71,
+    "Dziewczęta": 61.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Kolegium Pracownikăłw SĺUĺźb SpoĺEcznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 10,
+    "Dziewczęta": 10.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 394,
+    "Dziewczęta": 236.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 89,
+    "Dziewczęta": 64.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Policealna SzkoĺA Plastyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 40,
+    "Dziewczęta": 29.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2261,
+    "Dziewczęta": 656.0
+  },
+  {
+    "Region": "Lubelskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 398,
+    "Dziewczęta": 98.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 5068,
+    "Dziewczęta": 2350.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 5,
+    "Dziewczęta": 4.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2948,
+    "Dziewczęta": 1836.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 544,
+    "Dziewczęta": 300.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 3377,
+    "Dziewczęta": 1453.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 2396,
+    "Dziewczęta": 1795.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 84,
+    "Dziewczęta": 30.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 7,
+    "Dziewczęta": 4.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 66,
+    "Dziewczęta": 57.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 216,
+    "Dziewczęta": 145.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 24,
+    "Dziewczęta": 18.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 1555,
+    "Dziewczęta": 517.0
+  },
+  {
+    "Region": "Lubuskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 96,
+    "Dziewczęta": 28.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 13565,
+    "Dziewczęta": 6190.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 25,
+    "Dziewczęta": 10.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 9449,
+    "Dziewczęta": 5959.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1272,
+    "Dziewczęta": 615.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 7028,
+    "Dziewczęta": 2635.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 4561,
+    "Dziewczęta": 3421.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 126,
+    "Dziewczęta": 56.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 65,
+    "Dziewczęta": 38.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 33,
+    "Dziewczęta": 17.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 90,
+    "Dziewczęta": 78.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Baletowa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 5,
+    "Dziewczęta": 5.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 471,
+    "Dziewczęta": 285.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 65,
+    "Dziewczęta": 39.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "SzkoĺA Sztuki TaĺCa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 9,
+    "Dziewczęta": 9.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2098,
+    "Dziewczęta": 596.0
+  },
+  {
+    "Region": "ĹĂDzkie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 207,
+    "Dziewczęta": 57.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 23381,
+    "Dziewczęta": 10628.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 3,
+    "Dziewczęta": 1.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 13466,
+    "Dziewczęta": 8566.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1405,
+    "Dziewczęta": 674.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 11320,
+    "Dziewczęta": 4429.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 5833,
+    "Dziewczęta": 4646.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 186,
+    "Dziewczęta": 68.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 105,
+    "Dziewczęta": 61.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 74,
+    "Dziewczęta": 44.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 149,
+    "Dziewczęta": 138.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 1172,
+    "Dziewczęta": 706.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 170,
+    "Dziewczęta": 104.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "SzkoĺA Sztuki TaĺCa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 10,
+    "Dziewczęta": 10.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4811,
+    "Dziewczęta": 1458.0
+  },
+  {
+    "Region": "MaĺOpolskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 468,
+    "Dziewczęta": 110.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 39424,
+    "Dziewczęta": 18702.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 19,
+    "Dziewczęta": 8.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 29914,
+    "Dziewczęta": 17821.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 3313,
+    "Dziewczęta": 1620.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 14119,
+    "Dziewczęta": 5218.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 14655,
+    "Dziewczęta": 10141.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 345,
+    "Dziewczęta": 128.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 120,
+    "Dziewczęta": 66.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 97,
+    "Dziewczęta": 65.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 127,
+    "Dziewczęta": 111.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Baletowa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 15,
+    "Dziewczęta": 12.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Sztuki Cyrkowej",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 11,
+    "Dziewczęta": 3.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 710,
+    "Dziewczęta": 455.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 137,
+    "Dziewczęta": 77.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Inna SzkoĺA Artystyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 3,
+    "Dziewczęta": NaN
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Bednarska SzkoĺA Realna",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 44,
+    "Dziewczęta": 23.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Policealna SzkoĺA Muzyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 16,
+    "Dziewczęta": 14.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Policealna SzkoĺA Plastyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 129,
+    "Dziewczęta": 110.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4202,
+    "Dziewczęta": 1233.0
+  },
+  {
+    "Region": "Mazowieckie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 431,
+    "Dziewczęta": 104.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 3896,
+    "Dziewczęta": 1737.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 35,
+    "Dziewczęta": 13.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2546,
+    "Dziewczęta": 1661.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 616,
+    "Dziewczęta": 309.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2884,
+    "Dziewczęta": 1204.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 1870,
+    "Dziewczęta": 1452.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 49,
+    "Dziewczęta": 18.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 66,
+    "Dziewczęta": 62.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 279,
+    "Dziewczęta": 173.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 44,
+    "Dziewczęta": 29.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "SzkoĺA Sztuki TaĺCa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 11,
+    "Dziewczęta": 11.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 1348,
+    "Dziewczęta": 436.0
+  },
+  {
+    "Region": "Opolskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 207,
+    "Dziewczęta": 24.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 13309,
+    "Dziewczęta": 6057.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 8392,
+    "Dziewczęta": 5497.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 868,
+    "Dziewczęta": 408.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 7530,
+    "Dziewczęta": 2793.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 3324,
+    "Dziewczęta": 2898.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 136,
+    "Dziewczęta": 50.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 41,
+    "Dziewczęta": 18.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 28,
+    "Dziewczęta": 22.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 128,
+    "Dziewczęta": 101.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 674,
+    "Dziewczęta": 410.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 100,
+    "Dziewczęta": 62.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Inna SzkoĺA Artystyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 12,
+    "Dziewczęta": 8.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2393,
+    "Dziewczęta": 704.0
+  },
+  {
+    "Region": "Podkarpackie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 184,
+    "Dziewczęta": 48.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 6245,
+    "Dziewczęta": 2810.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4696,
+    "Dziewczęta": 3015.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 453,
+    "Dziewczęta": 230.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 3507,
+    "Dziewczęta": 1280.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 2433,
+    "Dziewczęta": 1818.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 64,
+    "Dziewczęta": 30.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 6,
+    "Dziewczęta": 4.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 12,
+    "Dziewczęta": 9.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 34,
+    "Dziewczęta": 31.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 288,
+    "Dziewczęta": 178.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 33,
+    "Dziewczęta": 18.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "SzkoĺA Sztuki TaĺCa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 7,
+    "Dziewczęta": 7.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 1089,
+    "Dziewczęta": 284.0
+  },
+  {
+    "Region": "Podlaskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 139,
+    "Dziewczęta": 40.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 16047,
+    "Dziewczęta": 7498.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 6,
+    "Dziewczęta": 2.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 8904,
+    "Dziewczęta": 5471.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1239,
+    "Dziewczęta": 669.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 7312,
+    "Dziewczęta": 3183.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 4740,
+    "Dziewczęta": 3828.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 174,
+    "Dziewczęta": 58.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 31,
+    "Dziewczęta": 15.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 31,
+    "Dziewczęta": 23.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 98,
+    "Dziewczęta": 87.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Baletowa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 10,
+    "Dziewczęta": 10.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 378,
+    "Dziewczęta": 236.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 44,
+    "Dziewczęta": 35.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Policealna SzkoĺA Muzyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 17,
+    "Dziewczęta": 9.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Policealna SzkoĺA Plastyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 23,
+    "Dziewczęta": 15.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 3873,
+    "Dziewczęta": 1284.0
+  },
+  {
+    "Region": "Pomorskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 252,
+    "Dziewczęta": 54.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 20277,
+    "Dziewczęta": 9331.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 130,
+    "Dziewczęta": 51.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 14646,
+    "Dziewczęta": 9156.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1526,
+    "Dziewczęta": 787.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 13413,
+    "Dziewczęta": 5194.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 7385,
+    "Dziewczęta": 5983.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 262,
+    "Dziewczęta": 118.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 129,
+    "Dziewczęta": 79.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 98,
+    "Dziewczęta": 66.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 323,
+    "Dziewczęta": 290.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Baletowa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 5,
+    "Dziewczęta": 5.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 576,
+    "Dziewczęta": 371.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 151,
+    "Dziewczęta": 97.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Inna SzkoĺA Artystyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 8,
+    "Dziewczęta": 6.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Policealna SzkoĺA Muzyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 5,
+    "Dziewczęta": 5.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4632,
+    "Dziewczęta": 1622.0
+  },
+  {
+    "Region": "ĹLäSkie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 926,
+    "Dziewczęta": 328.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 6299,
+    "Dziewczęta": 2894.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4425,
+    "Dziewczęta": 2886.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 493,
+    "Dziewczęta": 238.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4028,
+    "Dziewczęta": 1515.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 2830,
+    "Dziewczęta": 2211.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 92,
+    "Dziewczęta": 39.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 21,
+    "Dziewczęta": 12.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 5,
+    "Dziewczęta": 5.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 44,
+    "Dziewczęta": 38.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Kolegium Pracownikăłw SĺUĺźb SpoĺEcznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 18,
+    "Dziewczęta": 17.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 130,
+    "Dziewczęta": 76.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 12,
+    "Dziewczęta": 4.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 1143,
+    "Dziewczęta": 358.0
+  },
+  {
+    "Region": "ĹWiäTokrzyskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 385,
+    "Dziewczęta": 108.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 7556,
+    "Dziewczęta": 3474.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 28,
+    "Dziewczęta": 8.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4736,
+    "Dziewczęta": 2892.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 836,
+    "Dziewczęta": 484.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4136,
+    "Dziewczęta": 1844.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 1718,
+    "Dziewczęta": 1477.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 106,
+    "Dziewczęta": 34.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 21,
+    "Dziewczęta": 11.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 13,
+    "Dziewczęta": 9.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 39,
+    "Dziewczęta": 37.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 275,
+    "Dziewczęta": 178.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 44,
+    "Dziewczęta": 26.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2229,
+    "Dziewczęta": 785.0
+  },
+  {
+    "Region": "WarmiĺSko-Mazurskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 197,
+    "Dziewczęta": 48.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 19300,
+    "Dziewczęta": 8998.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 25,
+    "Dziewczęta": 8.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 13516,
+    "Dziewczęta": 8795.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 1818,
+    "Dziewczęta": 911.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 11476,
+    "Dziewczęta": 4794.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 7251,
+    "Dziewczęta": 5500.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 224,
+    "Dziewczęta": 90.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 92,
+    "Dziewczęta": 61.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 56,
+    "Dziewczęta": 39.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 64,
+    "Dziewczęta": 60.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Baletowa",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 12,
+    "Dziewczęta": 12.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Kolegium Pracownikăłw SĺUĺźb SpoĺEcznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 13,
+    "Dziewczęta": 13.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "PoznaĺSka SzkoĺA Chăłralna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 14,
+    "Dziewczęta": 8.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 482,
+    "Dziewczęta": 287.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 74,
+    "Dziewczęta": 49.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Inna SzkoĺA Artystyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 19,
+    "Dziewczęta": 12.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Policealna SzkoĺA Muzyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 3,
+    "Dziewczęta": 3.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Policealna SzkoĺA Plastyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 19,
+    "Dziewczęta": 16.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 6272,
+    "Dziewczęta": 1973.0
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 806,
+    "Dziewczęta": 243.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 9844,
+    "Dziewczęta": 4598.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "SzkoĺA Podstawowa",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 71,
+    "Dziewczęta": 24.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 5684,
+    "Dziewczęta": 3473.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Liceum OgăłlnoksztaĺCäCe",
+    "Kategoria": "DoroĺLi",
+    "Absolwenci": 878,
+    "Dziewczęta": 491.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Technikum",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 4175,
+    "Dziewczęta": 1674.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "SzkoĺA Policealna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 3410,
+    "Dziewczęta": 2624.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "SzkoĺA Specjalna PrzysposabiajäCa Do Pracy",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 89,
+    "Dziewczęta": 30.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 82,
+    "Dziewczęta": 57.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "OgăłlnoksztaĺCäCa SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 37,
+    "Dziewczęta": 24.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Liceum Sztuk Plastycznych",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 79,
+    "Dziewczęta": 74.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "SzkoĺA Muzyczna I Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 292,
+    "Dziewczęta": 171.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "SzkoĺA Muzyczna Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 23,
+    "Dziewczęta": 12.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Policealna SzkoĺA Plastyczna",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 9,
+    "Dziewczęta": 6.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA I Stopnia",
+    "Kategoria": "Dzieci Lub MĺOdzieĺź",
+    "Absolwenci": 2034,
+    "Dziewczęta": 706.0
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Typ szkoły": "Branĺźowa SzkoĺA Ii Stopnia",
+    "Kategoria": "Bez Kategorii",
+    "Absolwenci": 83,
+    "Dziewczęta": 29.0
+  }
+]
