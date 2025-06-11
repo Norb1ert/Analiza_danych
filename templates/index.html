@@ -8,24 +8,32 @@
 <body class="container py-5">
     <h1 class="mb-4">Dane absolwentów 2023/2024</h1>
 
-    <form method="get" class="row g-3 mb-4">
-        <div class="col-md-4">
-            <input type="text" class="form-control" name="search" placeholder="Szukaj województwa lub szkoły..." value="{{ search }}">
-        </div>
-        <div class="col-md-3">
-            <select name="sort_by" class="form-select">
-                <option value="Region" {% if sort_by == 'Region' %}selected{% endif %}>Sortuj wg regionu</option>
-                <option value="Absolwenci" {% if sort_by == 'Absolwenci' %}selected{% endif %}>Sortuj wg liczby absolwentów</option>
-            </select>
-        </div>
-        <div class="col-md-2 form-check mt-2">
-            <input type="checkbox" class="form-check-input" id="top5" name="top5" value="true" {% if top_only %}checked{% endif %}>
-            <label class="form-check-label" for="top5">Tylko Top 5</label>
-        </div>
-        <div class="col-md-2">
-            <button type="submit" class="btn btn-primary w-100">Filtruj</button>
-        </div>
-    </form>
+
+    <form method="get" class="filters">
+        <input type="text" name="search" placeholder="Szukaj..." value="{{ search }}">
+        <select name="sort_by">
+          <option value="Region" {% if sort_by == 'Region' %}selected{% endif %}>Region</option>
+          <option value="Typ szkoły" {% if sort_by == 'Typ szkoły' %}selected{% endif %}>Typ szkoły</option>
+          <option value="Absolwenci" {% if sort_by == 'Absolwenci' %}selected{% endif %}>Absolwenci</option>
+        </select>
+      
+        <select name="filter_type">
+          <option value="">-- brak filtra --</option>
+          <option value="max" {% if filter_type == 'max' %}selected{% endif %}>Najwięcej absolwentów</option>
+          <option value="min" {% if filter_type == 'min' %}selected{% endif %}>Najmniej absolwentów</option>
+          <option value="avg" {% if filter_type == 'avg' %}selected{% endif %}>Najbliżej średniej</option>
+        </select>
+      
+        <label>
+          <input type="checkbox" name="top5" value="true" {% if top_only %}checked{% endif %}>
+          Top 5
+        </label>
+      
+        <button type="submit">Filtruj</button>
+      </form>
+
+    
+      
 
     <table class="table table-bordered table-striped">
         <thead class="table-dark">
