@@ -33,31 +33,6 @@ def load_data():
 
 df = load_data()
 
-# @app.route('/')
-# @login_required
-# def index():
-#     search = request.args.get('search', '').lower()
-#     sort_by = request.args.get('sort_by', 'Region')
-#     top_only = request.args.get('top5', 'false') == 'true'
-
-#     filtered_df = df.copy()
-
-#     if search:
-#         filtered_df = filtered_df[
-#             filtered_df['Region'].str.lower().str.contains(search) |
-#             filtered_df['Typ szkoły'].str.lower().str.contains(search)
-#         ]
-
-#     if sort_by in filtered_df.columns:
-#         filtered_df = filtered_df.sort_values(by=sort_by, ascending=(sort_by == 'Region'))
-
-#     if top_only:
-#         filtered_df = filtered_df.head(5)
-
-#     avg_abs = round(filtered_df["Absolwenci"].mean(), 2)
-#     data = filtered_df.to_dict(orient='records')
-
-#     return render_template('index.html', data=data, avg_abs=avg_abs, search=search, sort_by=sort_by, top_only=top_only)
 
 @app.route('/')
 @login_required
@@ -65,7 +40,7 @@ def index():
     search = request.args.get('search', '').lower()
     sort_by = request.args.get('sort_by', 'Region')
     top_only = request.args.get('top5', 'false') == 'true'
-    filter_type = request.args.get('filter_type', '')  # NEW
+    filter_type = request.args.get('filter_type', '')
 
     filtered_df = df.copy()
 
@@ -92,10 +67,25 @@ def index():
         filtered_df['diff'] = (filtered_df['Absolwenci'] - avg_val).abs()
         filtered_df = filtered_df.sort_values(by='diff').head(1).drop(columns='diff')
 
+    # These must stay INSIDE the function
     avg_abs = round(filtered_df["Absolwenci"].mean(), 2)
     data = filtered_df.to_dict(orient='records')
 
-    return render_template('index.html', data=data, avg_abs=avg_abs, search=search, sort_by=sort_by, top_only=top_only, filter_type=filter_type)
+    # Prepare data for Chart.js
+    labels = list(filtered_df['Region'])
+    values = list(filtered_df['Absolwenci'])
+
+    return render_template(
+        'index.html',
+        data=data,
+        avg_abs=avg_abs,
+        search=search,
+        sort_by=sort_by,
+        top_only=top_only,
+        filter_type=filter_type,
+        labels=json.dumps(labels),
+        values=json.dumps(values)
+    )
 
 
 
@@ -124,8 +114,12 @@ def logout():
     logout_user()
     return redirect('/login')
 
+
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
     app.run(debug=True)
+
+   
 

@@ -4,37 +4,52 @@
     <meta charset="UTF-8">
     <title>Dane absolwentów</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body class="container py-5">
     <h1 class="mb-4">Dane absolwentów 2023/2024</h1>
 
+    <!-- Formularz filtrów -->
+    <form method="get" class="mb-4 d-flex flex-wrap gap-3 align-items-end">
+        <div>
+            <label for="search">Szukaj:</label>
+            <input type="text" name="search" id="search" class="form-control" placeholder="Szukaj..." value="{{ search }}">
+        </div>
 
-    <form method="get" class="filters">
-        <input type="text" name="search" placeholder="Szukaj..." value="{{ search }}">
-        <select name="sort_by">
-          <option value="Region" {% if sort_by == 'Region' %}selected{% endif %}>Region</option>
-          <option value="Typ szkoły" {% if sort_by == 'Typ szkoły' %}selected{% endif %}>Typ szkoły</option>
-          <option value="Absolwenci" {% if sort_by == 'Absolwenci' %}selected{% endif %}>Absolwenci</option>
-        </select>
-      
-        <select name="filter_type">
-          <option value="">-- brak filtra --</option>
-          <option value="max" {% if filter_type == 'max' %}selected{% endif %}>Najwięcej absolwentów</option>
-          <option value="min" {% if filter_type == 'min' %}selected{% endif %}>Najmniej absolwentów</option>
-          <option value="avg" {% if filter_type == 'avg' %}selected{% endif %}>Najbliżej średniej</option>
-        </select>
-      
-        <label>
-          <input type="checkbox" name="top5" value="true" {% if top_only %}checked{% endif %}>
-          Top 5
-        </label>
-      
-        <button type="submit">Filtruj</button>
-      </form>
+        <div>
+            <label for="sort_by">Sortuj wg:</label>
+            <select name="sort_by" id="sort_by" class="form-select">
+                <option value="Region" {% if sort_by == 'Region' %}selected{% endif %}>Region</option>
+                <option value="Typ szkoły" {% if sort_by == 'Typ szkoły' %}selected{% endif %}>Typ szkoły</option>
+                <option value="Absolwenci" {% if sort_by == 'Absolwenci' %}selected{% endif %}>Absolwenci</option>
+            </select>
+        </div>
 
-    
-      
+        <div>
+            <label for="filter_type">Filtr:</label>
+            <select name="filter_type" id="filter_type" class="form-select">
+                <option value="">-- brak filtra --</option>
+                <option value="max" {% if filter_type == 'max' %}selected{% endif %}>Najwięcej absolwentów</option>
+                <option value="min" {% if filter_type == 'min' %}selected{% endif %}>Najmniej absolwentów</option>
+                <option value="avg" {% if filter_type == 'avg' %}selected{% endif %}>Najbliżej średniej</option>
+            </select>
+        </div>
 
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" name="top5" id="top5" value="true" {% if top_only %}checked{% endif %}>
+            <label for="top5" class="form-check-label">Top 5</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Filtruj</button>
+    </form>
+
+    <!-- Wykres -->
+    <h2 class="h4 mt-5">Wizualizacja liczby absolwentów wg regionu</h2>
+    <div class="d-flex justify-content-center my-4">
+        <canvas id="absChart" style="max-width: 100%; height: auto;" width="600" height="300"></canvas>
+    </div>
+
+    <!-- Tabela -->
     <table class="table table-bordered table-striped">
         <thead class="table-dark">
             <tr>
@@ -59,5 +74,47 @@
     </table>
 
     <p class="text-muted">Średnia liczba absolwentów: {{ avg_abs }}</p>
+
+    <!-- Skrypt Chart.js -->
+    <script>
+        const ctx = document.getElementById('absChart').getContext('2d');
+        const chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: {{ labels | safe }},
+                datasets: [{
+                    label: 'Liczba absolwentów',
+                    data: {{ values | safe }},
+                    backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: 'top'
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: 'Liczba absolwentów'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Region'
+                        }
+                    }
+                }
+            }
+        })
+    </script>
 </body>
 </html>
