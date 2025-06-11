@@ -1,11 +1,11 @@
-# Aplikacja Flask – Analiza Wynagrodzeń w Urzędach Wojewódzkich
+# Aplikacja Flask – Analiza Absolwentów Szkół w Polsce
 
 Projekt przedstawia prostą aplikację webową stworzoną przy użyciu **Flask**, umożliwiającą:
 
 - Rejestrację i logowanie użytkowników
-- Przeglądanie danych o wynagrodzeniach w urzędach wojewódzkich
+- Przeglądanie danych o absolwentach szkół w polsce
 - Filtrowanie, sortowanie i analizę danych
-- Obliczanie średnich wynagrodzeń i różnic między płacą zasadniczą a całkowitą
+- Sprawdzenie danych w konkretnych wojewódzwtach, maks, min, avg...
 
 ## Wymagania
 
